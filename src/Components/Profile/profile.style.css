@@ -1,0 +1,123 @@
+.container{
+
+    width: 100%;
+  
+    min-height: 100px;
+  
+    padding: 20px;
+  
+    margin:50px auto;
+  
+    border: 1px solid grey;
+  
+    border-radius: 5px;
+  
+  }
+  
+  .bio{
+  
+    margin-bottom: 30px;
+  
+  }
+  
+  .bio h3{
+  
+    font-size: 24px;
+  
+    font-weight: 450px;
+  
+  }
+  
+  .bio p{
+  
+    font-size: 18px;
+  
+    color: black;
+  
+    margin-top: 5px;
+  
+  }
+  
+  .sills{
+  
+    margin-bottom: 30px;
+  
+  }
+  
+  .skills h3{
+  
+    font-size: 20px;
+  
+    font-weight: 500px;
+  
+  }
+  
+  .skills ul{
+  
+    list-style-type:none;
+  
+  }
+  
+  .skills ul li{
+  
+    display: inline-block;
+  
+    padding: 5px 15px;
+  
+    margin-right: 20px;
+  
+    background: lightgrey;
+  
+    border-radius: 5px;
+  
+  }
+  
+  .links{
+  
+    margin-bottom: 30px;
+  
+  }
+  
+  .links h3{
+  
+    font-size: 20px;
+  
+    font-weight: 500px;
+  
+    margin-bottom: 10px;
+  
+  }
+  
+  .links ul{
+  
+    list-style-type:none;
+  
+  }
+  
+  .links ul li{
+  
+    display: inline-block;
+  
+    padding: 5px 15px;
+  
+    margin-right: 20px;
+  
+    border-radius: 5px;
+  
+  }
+  
+  .links ul li a{
+  
+    color: midnightblue;
+  
+    font-weight: bold;
+  
+    text-decoration: none;
+  
+  }
+  
+  .links ul li a:hover{
+  
+    color: goldenrod;
+  
+  }
