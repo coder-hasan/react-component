@@ -1,6 +1,7 @@
 import React, {Component} from 'react'
 import  Profile from './Profile'
 import Skills from './Profile/Skills'
+import State from './Props/state'
 // import Props from './Props/index'
 
 const Child =(props) =>{
@@ -17,6 +18,7 @@ class App extends Component {
     render (){
         return (
             <div className="app">
+                <State></State>
                 <Profile />
                 <div className="programmer">
                     <h3>List of Programmers</h3>
